@@ -1,25 +1,20 @@
-{
-  "Modpacks": [
-    {
-      "Nombre": "No Disponible",
-      "RutaImagen": "NULL",
-      "ImagenLink": "NULL",
-      "Version": "NULL",
-      "Creador": "NULL",
-      "Descripcion": "No es posible conectarse con el servidor.",
-      "FechaPubli": "NULL",
-      "VersionJuego": "NULL",
-      "UpdateLink": "NULL",
-      "MinecraftLink": "NULL",
-      "Contraseña": "NULL",
-      "ChangeLogLink": "NULL",
-      "Verificado": "NULL",
-      "DireccionWeb": "NULL",
-      "Bloqueo": "NULL",
-      "Editor": {
-        "Usuario": "NULL",
-        "Contraseña": "NULL"
-      }
-    }
-  ]
-}
+[
+  {
+      Nombre: "No Disponible",
+      RutaImagen: "NULL",
+      ImagenLink: "NULL",
+      Version: "NULL",
+      Creador: "NULL",
+      Descripcion: "No es posible conectarse con el servidor.",
+      FechaPubli: "NULL",
+      VersionJuego: "NULL",
+      UpdateLink: "NULL",
+      MinecraftLink: "NULL",
+      Contraseña: "NULL",
+      ChangeLogLink: "NULL",
+      Verificado: "NULL",
+      DireccionWeb: "NULL",
+      Bloqueo: "NULL",
+      Editor: { "Usuario": "NULL", "Contraseña": "NULL" }
+  }
+]
