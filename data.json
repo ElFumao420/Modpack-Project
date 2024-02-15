@@ -1,8 +1,8 @@
 {
   "ProgramaPrincipal": {
     "Nombre": "Modpack Project",
-    "VersionApp": "1.8.5.0",
-    "VersionLaunchers": "1.7.0",
+    "VersionApp": "0.0.0.0",
+    "VersionLaunchers": "0.0.0",
     "LaunchersLink": "vYg9E5sTBJcL5Y1B8IQdZgEDHA6gAZkrs4dhzMUCzwWS3t+5pu4R/UinK/bZYl25zF/l6si0T1kubIxvfbOyIPKqK/zzcdlkxRDhpDrW5CSebjRebsn5KIdNRl01mFaDpF4vfZDf4DMNszD50SZlysyJfY8IHHzz",
     "DownloadAppLink": "https://dl.dropboxusercontent.com/scl/fi/nb1fb0nfcjtbew2uc60u0/Modpack-Project.zip?rlkey=4voya9i5dd7aq5sgk89sncyw0&dl=0",
     "UpdaterAppLink": "https://dl.dropboxusercontent.com/s/le6x1getdy1qwzu/Updater.zip",
